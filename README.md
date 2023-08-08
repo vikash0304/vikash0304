@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning Java and ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  
-<br>
+
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fvikash_0304)](https://twitter.com/vikash_0304)
 [![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Flinkedin.com%2Fin%2Fvikash-kumar-219243130)](https://www.linkedin.com/in/vikash-kumar-219243130/)
 [![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fvikash_0304)](https://instagram.com/vikash_0304)
+
 <br>
 
 **Overview:**
