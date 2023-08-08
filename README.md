@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikash
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java and ReactJs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open-source projects related to web development
 - 📫 How to reach me  
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fvikash_0304)](https://twitter.com/vikash_0304)
