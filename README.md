@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [http://www.advancecomputing.co.in/](http://www.advancecomputing.co.in/)
 
-- 💬 Ask me about **Java,AWS, Microservices**
+- 💬 Ask me about **Java, AWS, GCP, Microservices**
 
 - 📫 How to reach me **kr.vikash3491@gmail.com**
 
