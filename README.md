@@ -3,21 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash0304&label=Profile%20views&color=0e75b6&style=flat" alt="vikash0304" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikash0304" alt="vikash0304" /></a> </p>
-
 - 🔭 I’m currently working on [FordPro Project](https://www.fordpro.com/en-us/)
 
-- 🌱 I’m currently learning **React Native,VueJS, GCP, Reactive Programming**
+- 🌱 I’m currently learning **Angular, Gen AI, RAG, LLMs, React Native, GCP, Reactive Programming**
 
-- 👨‍💻 All of my projects are available at [vikash-kumar.com](vikash-kumar.com)
+- 👨‍💻 All of my projects are available at [vikash-kumar.com]([vikash-kumar.com](https://vikashkumar818677786.wordpress.com/)
 
 - 📝 I regularly write articles on [http://www.advancecomputing.co.in/](http://www.advancecomputing.co.in/)
 
-- 💬 Ask me about **Java,AWS, Microservices**
+- 💬 Ask me about **Java, Graphql, AWS, Microservices**
 
 - 📫 How to reach me **kr.vikash3491@gmail.com**
 
-- 📄 Know about my experiences [vikash-kumar.com](https://vikash-kumar.com/) , [vikash0304](https://vikash0304.github.io/)
+- 📄 Know about my experiences [vikash-kumar.com]([https://vikash-kumar.com/](https://vikashkumar818677786.wordpress.com/) , [vikash0304](https://vikash0304.github.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
