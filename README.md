@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash0304&label=Profile%20views&color=0e75b6&style=flat" alt="vikash0304" /> </p>
 
@@ -7,11 +7,15 @@
 
 - 🌱 I’m currently learning **Angular, Gen AI, RAG, LLMs, React Native, GCP, Reactive Programming**
 
+- 🤖 Exploring GenAI, RAG, LLMs, LangChain, MCP servers
+
+- 🧠 Passionate about System Design & High Scale Architecture
+
 - 👨‍💻 All of my projects are available at [vikash-kumar.com]([vikash-kumar.com](https://vikashkumar818677786.wordpress.com/)
 
 - 📝 I regularly write articles on [http://www.advancecomputing.co.in/](http://www.advancecomputing.co.in/)
 
-- 💬 Ask me about **Java, Graphql, AWS, Microservices**
+- 💬 Ask me about **Java, Graphql, AWS, GCP, Microservices**
 
 - 📫 How to reach me **kr.vikash3491@gmail.com**
 
